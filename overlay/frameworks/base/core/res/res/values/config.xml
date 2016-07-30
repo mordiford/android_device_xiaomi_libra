@@ -394,4 +394,6 @@
     <bool name="config_deviceHasVariableButtonBrightness">true</bool>
     <integer name="config_buttonBrightnessSettingDefault">153</integer>
 
+    <!-- Enable RR Hardware key pref -->
+    <bool name="config_hwKeysPref">true</bool>
 </resources>
